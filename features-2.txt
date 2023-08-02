@@ -1,1 +1,2 @@
 This is anothor feature
+Have added new features bu dev:2 /logout
